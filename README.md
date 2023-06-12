@@ -2,9 +2,7 @@
 
 STOPWATCH (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: https://5codeman.github.io/STOPWATCH/
-
-Project demo video Link: https://www.youtube.com/watch?v=QeLBZmgMxLc
+You can see the website live at: 
 
 ABOUT THIS PROJECT-:
 
